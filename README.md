@@ -1,5 +1,3 @@
-## Atividade 1 React Native Calculadora Simoples
-
 ### Aplicativo de calculadora simples
 
 1 - Primeiro é preciso baixar as dependências, no terminal digite `npm install`
