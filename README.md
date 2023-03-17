@@ -29,7 +29,7 @@
 ![operacao_soma](https://user-images.githubusercontent.com/81994459/226070104-34bdf72d-3a9a-40cc-9edc-24861f34c055.png)
 
 
-#### - Operação ded Subtração
+#### - Operação de Subtração
 
 ![operacao_subtracao](https://user-images.githubusercontent.com/81994459/226070111-2a1531b0-988c-46d7-9813-186290ce0a31.png)
 
